@@ -124,7 +124,7 @@ Java                     1 repo              █████░░░░░░�
 
 <!-- 热力图Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MagicCD/MagicCD/main/assets/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MagicCD/MagicCD/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- 贡献趋势图 -->
