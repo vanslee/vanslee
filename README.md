@@ -10,7 +10,7 @@
 <!-- 头图 -->
 ![](image/image.png)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MagicCD/MagicCD/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vanslee/vanslee/output/github-contribution-grid-snake.svg" />
 </div>
 <!-- 欢迎语句 -->
 <p align="center" style="font-size:30px;">Hello👋 <img src="https://profile-counter.glitch.me/vanslee/count.svg" /> th visitor 🥰
