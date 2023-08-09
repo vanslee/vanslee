@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <a href="https://www.lidengxiang.top/">
-      个人博客
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=E9B384&background=E9B38400&center=true&vCenter=true&width=435&lines=My+Personal+Blog" alt="Typing SVG" />
     </a>
   </h1>
 </div>
@@ -92,7 +92,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=vanslee&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=40&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vanslee&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=38&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
     </td>
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanslee&layout=donut&theme=graywhite&bg_color=0,fDFF62,A7FA73,80d7FF&locale=cn"/>
