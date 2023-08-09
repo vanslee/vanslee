@@ -9,7 +9,7 @@
 ![](image/image.png)
 
 <!-- 欢迎语句 -->
-<p align="center" style="font-size:30px;">Hello👋 <img src="https://profile-counter.glitch.me/MagicCD/count.svg" /> th visitor 🥰
+<p align="center" style="font-size:30px;">Hello👋 <img src="https://profile-counter.glitch.me/vanslee/count.svg" /> th visitor 🥰
 </p>
 <p align="center" style="font-size:25px">Welcome to my GitHub page😘
 </p>
@@ -110,25 +110,25 @@ Java                     1 repo              █████░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/MagicCD/MagicCD/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/vanslee/vanslee/main/assets/bar_graph.png)
 
 
  Last Updated on 08/08/2023 18:31:48 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=MagicCD&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicCD&layout=donut&theme=graywhite&bg_color=0,fDFF62,A7FA73,80d7FF&locale=cn"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=vanslee&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanslee&layout=donut&theme=graywhite&bg_color=0,fDFF62,A7FA73,80d7FF&locale=cn"/>
 </div>
 
 <!-- 热力图Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MagicCD/MagicCD/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vanslee/vanslee/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- 贡献趋势图 -->
 <!-- ## Contribution Grap
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MagicCD&theme=github-compact" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanslee&theme=github-compact" />
 </div> -->
