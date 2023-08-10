@@ -1,8 +1,8 @@
-name: generate animation
+name: generate snake animation
 
 on:
   schedule:
-    - cron: "0 */8 * * *" 
+    - cron: "0 0 0 * * ? "  # 每天凌晨自动执行
   workflow_dispatch:
 
   push:
